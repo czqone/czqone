@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Blog [czq.one](https://czq.one)
+Blog [czq.me](https://czq.me)
 
-Knowledge Base [wiki.czq.one](https://wiki.czq.one/)
+Knowledge Base [wiki.czq.me](https://wiki.czq.me/)
 
-Japanese Notes [ja.czq.one](https://ja.czq.one/)
+Japanese Notes [ja.czq.me](https://ja.czq.me/)
 
 <!--
 **jikyou/jikyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
